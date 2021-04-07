@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>SleepyPiggy is awake!</title>
-    <url>/2021/04/05/SleepyPiggy-is-awake/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id=""><a href="#" class="headerlink" title=""></a></h4><h4 id="第一篇博客"><a href="#第一篇博客" class="headerlink" title="第一篇博客"></a>第一篇博客</h4><p>实在是睡不着呀</p>
-<p>呜呜呜</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>测试一下这个模板好不好看</title>
-    <url>/2021/04/05/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B%E8%BF%99%E4%B8%AA%E6%A8%A1%E6%9D%BF%E5%A5%BD%E4%B8%8D%E5%A5%BD%E7%9C%8B/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2021/04/05/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>About SleepyPiggy</title>
+    <url>/2021/04/07/About-SleepyPiggy/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>你好！欢迎你来到了我的博客！</p>
+<p>(虽然没有什么好看的) 不过既然来都来啦，多看一会再走吧。😜</p>
+<span id="more"></span>
+<div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=300 height=86 src="//music.163.com/outchain/player?type=2&id=478507889&auto=1&height=66"></iframe></div>
+<br/>
+<h5 id="个人简介">个人简介:</h5>
+<blockquote>
+<p>姓名: SleepyPiggy 😴🐷</p>
+<p>性别: 男👦</p>
+<p>爱好: emmm 好像没什么爱好诶(<strong>听相声</strong>和<strong>看鬼故事</strong>算不算捏)😕</p>
+<p>特长: 什么都会一点但是什么都不擅长😂</p>
+<p>梦想: 就是希望每天都能好好睡觉吧😴</p>
+</blockquote>
+<br/>
+<h5 id="博客内容">博客内容:</h5>
+<ul>
+<li>先是有关自己的一些想法吧，心情和感悟都有的，然后的话emmm，决定不在这个网站上写任何有关于学术的东西(<s>因为太菜</s>)，主要是自己对于学术一直都不感兴趣(学术垃圾实锤)。</li>
+<li>然后的话，可能记录一些生活中发生的比较重大的事情，当一个日记本用hhhh</li>
+<li>最后，我还要写一些有关天津话的东西，(您唆介对嘛~，结界)</li>
+</ul>
+<br/>
+<h5 id="打个广告">打个广告:</h5>
+<p>其实自己有在B站做视频的一个想法，所以想请大家去点个关注(<s>不要脸</s>)，这是我的<a href="https://space.bilibili.com/335895348">B站主页</a> 。视频内容的话是有关<strong>守望先锋</strong>、<strong>相关习题讲解</strong>以及一些<strong>生活经验</strong>。</p>
 ]]></content>
   </entry>
 </search>
