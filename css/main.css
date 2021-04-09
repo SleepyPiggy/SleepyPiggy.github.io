@@ -1172,7 +1172,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff66df;
+  background: #599ac9;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2564,4 +2564,87 @@ span.exturl {
   display: inline-block;
   margin: 10px;
   color: #cef !important;
+}
+.hbe-input-label-default::before {
+  height: 50% !important;
+  background: rgba(204,238,255,0.067) !important;
+  top: 0;
+  -webkit-transform: translate3d(0, -100%, 0);
+  transform: translate3d(0, -100%, 0);
+  -webkit-transition: -webkit-transform 0.2s;
+  transition: transform 0.2s;
+}
+.hbe-input-label-default::after {
+  height: 2px;
+  background: #cef !important;
+  top: 100%;
+  -webkit-transition: opacity 0.2s;
+  transition: opacity 0.2s;
+}
+.hbe-input-field-default {
+  height: 70%;
+  width: 70%;
+  background: transparent;
+  padding: 0.5em;
+  margin-bottom: 2em;
+  color: #f9f7f6;
+  z-index: 100;
+  opacity: 0;
+}
+.hbe-input-label {
+  display: inline-block;
+  float: right;
+  padding: 0 1em;
+  width: 70% !important;
+  color: #cef !important;
+  font-weight: bold;
+  font-size: 70%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.hbe-input-field-default:focus + .hbe-input-label-default .hbe-input-label-content-default,
+.hbe-input--filled .hbe-input-label-default .hbe-input-label-content-default {
+  color: #cef !important;
+  -webkit-transform: translate3d(0, 2.1em, 0) scale3d(0.65, 0.65, 1);
+  transform: translate3d(0, 2.1em, 0) scale3d(0.65, 0.65, 1);
+}
+.hbe-content {
+  text-align: center;
+  font-size: 100%;
+  padding: 1em 0;
+}
+.hbe-input-field-flip {
+  width: 80%;
+  height: 60% !important;
+  background-color: rgba(221,187,187,0.4) !important;
+  border: 2px solid transparent;
+  -webkit-transition: background-color 0.25s, border-color 0.25s;
+  transition: background-color 0.25s, border-color 0.25s;
+}
+.hbe-input-label-content-flip {
+  color: #cef !important;
+  padding: 0.25em 0;
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+}
+.hbe-input-label-content-flip::after {
+  content: attr(data-content);
+  position: absolute;
+  font-weight: 800;
+  bottom: 100%;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  color: #cef !important;
+  padding: 0.25em 0;
+  letter-spacing: 1px;
+  font-size: 1em;
 }
